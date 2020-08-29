@@ -19,7 +19,7 @@ class Bio extends Component {
         <ImageProfile />
         <h1>{name}</h1>
         <p><b>{description}</b></p>
-        <p>PT. Astrido Prima Mobilindo, Jalan Raya Serpong Sutera Niaga IV No 1, <br/> Pakulonan Serpong, Tangerang</p>
+        <p>Madu Abu Bakar, Komplek Dasana Indah Blok SO.15 No.3, <br/> Kelapa Dua, Kabupaten Tangerang</p>
       </div>
     )
   }

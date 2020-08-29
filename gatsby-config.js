@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `SalesSite123.com`,
-    description: `A Gatsby theme for sales to showcase their products`,
-    author: `Ahmad Zakiy`,
+    title: `MaduAbuBakar.com`,
+    description: `Web Sales jualan MaduAbuBakar.Com`,
+    author: `Muhammad Syukri`,
     authorDescription: `Sales Executive`,
   },
   plugins: [
@@ -56,8 +56,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `SalesSites123.com`,
-        short_name: `SalesSites123.com`,
+        name: `MaduAbuBakar.com`,
+        short_name: `MaduAbuBakar.com`,
         start_url: `/`,
         background_color: `#df0d2d`,
         theme_color: `#df0d2d`,

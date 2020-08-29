@@ -1,21 +1,18 @@
 ---
 templateKey: benefit-page
-title: Benefit PromoDaihatsu123.com
+title: Benefit MaduAbuBakar.com
 ---
-## Mengapa Harus PromoDaihatsu123.com?
+## Mengapa Harus MaduAbuBakar.com?
 
-## Total Keuntungan senilai Rp 2.000.000*!
+## Dijamin keaslian Madunya!
 
-* Dealer resmi berlisensi.
-* Sales Executive yang ramah dan membantu.
-* Garansi resmi Daihatsu.
-* Layanan eksklusif selama satu tahun ke depan, termasuk konsultasi masalah teknis mobil, bantuan penyelesaian ke pihak dealer/ autoservice.
-* Pembayaran bisa melalui sistem kredit/ cicilan dengan DP yang terjangkau maupun cash.
-* Pemesanan mobil pilihan Anda akan diprioritaskan jika ada antrian.
-* Keuntungan Terbatas
-* **GRATIS – Pemasangan kaca film senilai Rp 1.000.000**
-* **GRATIS – Cashback senilai Rp 500.000**
-* **GRATIS – Sarung mobil senilai Rp 250.000**
-* **GRATIS – Sarung kunci mobil senilai Rp 250.000**
+* Madu Abu Bakar adalah brand yang menjual produk-produk madu Asli dan berkualitas.
+* Madu yang kami jual sudah diuji terlebih dahulu ke Asliannya sehingga konsumen kami merasa puas dengan madu yang dibeli.
+* Madu Abu Bakar hanya menjual madu yang betul-betul Asli dan berkualitas.
+* Madu Abu Bakar saat ini menjual Madu Sialang Asli dari Hutan Riau Sumatra yang dijamin Kualitas dan ke Asliannya.
+
+* **GRATIS – Pengiriman se-Jabodetabek**
+* **DISCOUNT – 10% untuk pembelian lebih dari di atas 5 botol**
+* **DISCOUNT – Khusus untuk para agency atau reseller**
 
 \*Persediaan terbatas setiap minggunya.

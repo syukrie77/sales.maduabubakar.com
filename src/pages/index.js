@@ -21,7 +21,7 @@ class IndexPage extends Component {
 
     return (
       <Layout>
-        <Seo title="Home" keywords={[`daihatsu`, `promo`, `murah`]} />
+        <Seo title="Home" keywords={[`madu`, `hutan`, `riau`, `sialang`, `asli`, `murah`]} />
         <Bio
           name={siteMetadata.author}
           description={siteMetadata.authorDescription}
