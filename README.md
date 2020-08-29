@@ -1,6 +1,6 @@
 # Gatsby Theme Sales Site
 
-See the [live demo](https://gatsby-theme-sales-site.netlify.com/)
+See the [live demo](https://sales.maduabubakar.com/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92636c0c-5e5f-4ea6-b762-a3261beca3f9/deploy-status)](https://app.netlify.com/sites/gatsby-theme-sales-site/deploys)
 
